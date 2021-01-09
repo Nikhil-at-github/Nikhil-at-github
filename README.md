@@ -1,4 +1,4 @@
-https://ibb.co/Vjb7s2m
+![Background Image](https://ibb.co/Vjb7s2m)
 
 <h2> Hey there! I'm Nikhil.</h2>
 
