@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Nikhil-at-github/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://ibb.co/Vjb7s2m">
 
 <h2> Hey there! I'm Nikhil.</h2>
 
