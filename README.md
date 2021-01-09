@@ -1,4 +1,4 @@
-<img src="https://ibb.co/Vjb7s2m">
+https://ibb.co/Vjb7s2m
 
 <h2> Hey there! I'm Nikhil.</h2>
 
