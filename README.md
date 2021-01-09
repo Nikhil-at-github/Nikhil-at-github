@@ -1,4 +1,4 @@
-![Background Image](https://drive.google.com/file/d/1PekSG82gH-dQGyVka_XYmKW0uaYoI3qY/view?usp=sharing)
+(https://drive.google.com/file/d/1PekSG82gH-dQGyVka_XYmKW0uaYoI3qY/view?usp=sharing)
 
 <h2> Hey there! I'm Nikhil.</h2>
 
