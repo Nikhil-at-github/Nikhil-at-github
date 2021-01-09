@@ -1,14 +1,16 @@
-(https://drive.google.com/file/d/1PekSG82gH-dQGyVka_XYmKW0uaYoI3qY/view?usp=sharing)
-
 <h2> Hey there! I'm Nikhil.</h2>
+<h5> FULL STACK WEB DEVELOPER</h5>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🧑 &nbsp; I'm a full-stack Web developer based in
+            New Delhi, India. I have been doing
+            freelancing for over an year. And being
+            an Engineer, I believe that one can
+            create anything with their skills &
+            knowledge!
+- 🎓 &nbsp; Studying Electronics & Communication Engineering at Dr. Akhilesh Das Gupta Institute of Technology & Management - GGSIPU.
+- 💼 &nbsp; Looking for a Front-End Development Engineer Job Profile.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
