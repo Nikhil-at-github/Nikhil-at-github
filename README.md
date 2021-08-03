@@ -44,7 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.nikhilonweb.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.nikhilonweb.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.nikhilonweb.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.nikhilonweb.me-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nikhil-kumar07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nikhil%20Kumar-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/n_._khil/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-n__n__i__i__c__c__k__k-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:nicknikhil12385@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nicknikhil12385@gmail.com-blue?style=flat-square&logo=gmail"></a>
